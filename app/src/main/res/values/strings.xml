@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">아이디</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="action_sign_in">회원 가입</string>
+    <string name="action_login">로그인</string>
+</resources>
